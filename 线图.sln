@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "线图", "线图\线图.csproj", "{01A06B5A-4D47-4438-A3F0-690D15D88765}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01A06B5A-4D47-4438-A3F0-690D15D88765}.Debug|x64.ActiveCfg = Debug|x64
+		{01A06B5A-4D47-4438-A3F0-690D15D88765}.Debug|x64.Build.0 = Debug|x64
+		{01A06B5A-4D47-4438-A3F0-690D15D88765}.Release|x64.ActiveCfg = Release|x64
+		{01A06B5A-4D47-4438-A3F0-690D15D88765}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCC9C848-FD5F-4D94-AF30-06167139A4B9}
+	EndGlobalSection
+EndGlobal
